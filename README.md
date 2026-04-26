@@ -6,6 +6,25 @@
 
 ---
 
+## 获取代码（克隆到本地）
+
+> **前提条件：** 请先安装 [Git for Windows](https://git-scm.com/download/win)，安装完成后打开 **Git Bash** 或 **命令提示符（CMD）** 执行以下命令。
+
+```bash
+# 进入你想存放项目的目录，例如桌面的 ARIN5302 文件夹
+cd C:\Users\lenovo\Desktop\ARIN5302
+
+# 克隆本仓库
+git clone https://github.com/bzhengak/rsna-yolov8.git
+
+# 进入项目目录
+cd rsna-yolov8
+```
+
+克隆完成后，`C:\Users\lenovo\Desktop\ARIN5302\rsna-yolov8` 目录中即包含项目的全部文件。
+
+---
+
 ## 环境设置
 1. **创建并激活 conda 环境**
     ```bash
